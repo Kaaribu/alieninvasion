@@ -41,3 +41,8 @@ Karabo Masalesa - *https://github.com/Kaaribu*
 1. Inspiration for the game comes from the classic arcade game Space Invaders.
 2. Python Crash Course - by Eric Matthes
 
+![screenshot-1](https://github.com/Kaaribu/alieninvasion/screenshots/ss1.jpg)
+![screenshot-1](https://github.com/Kaaribu/alieninvasion/screenshots/ss2.jpg)
+
+
+
