@@ -43,7 +43,7 @@ Pygame - Game development library
 
 ## Repository
 
-https://github.com/Kaaribu/inventory_app
+https://github.com/Kaaribu/alieninvasion
 ![screenshot-1](https://github.com/Kaaribu/alieninvasion/screenshots/ss1.jpeg)
 ![screenshot-1](https://github.com/Kaaribu/alieninvasion/screenshots/ss2.jpeg)
 
