@@ -12,13 +12,13 @@ Pygame library
 
 ## Installing
 1. Clone the repository to your local machine
-*git clone https://github.com/<username>/alien-invasion.git*
+`git clone https://github.com/<username>/alien-invasion.git`
 
 2. Install the required packages
-*pip install -r requirements.txt*
+`pip install -r requirements.txt`
 
 3. Run the game
-*python alien_invasion.py*
+`python alien_invasion.py`
 
 ## Gameplay
 
